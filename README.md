@@ -17,7 +17,7 @@ A fun and heartfelt way to wish someone a Happy Birthday via a beautifully desig
 
 ## 🚀 Live Demo
 
-👉 [Click to view]((https://happy-birthday-too-you.vercel.app/))
+👉 [Click to view](https://happy-birthday-too-you.vercel.app/)
 
 ---
 
